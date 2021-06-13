@@ -30,7 +30,8 @@ This is the place where I opensource stuff and break things 😄
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything related to Javascript/Typescript/React/React-Native
 - 📫 How to reach me: [@vivek_j_m](https://twitter.com/vivek_j_m) 
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: fuelled by movies and series 📽️ 
+- 🌠 Hobbies:Fitness 🏋️, Reading 📖
 
 <br />
 
