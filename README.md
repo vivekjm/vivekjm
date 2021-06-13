@@ -24,14 +24,14 @@ Hi, I'm [Vivek JM](https://vivekjm.ml/), a passionate self-taught Javascript eng
 
 <br />
 
-This is the place where I opensource stuff and break things 😄
+This is the place where I opensource stuff and share my knowledge  😄
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything related to Javascript/Typescript/React/React-Native
 - 📫 How to reach me: [@vivek_j_m](https://twitter.com/vivek_j_m) 
 - ⚡ Fun fact: fuelled by movies and series 📽️ 
-- 🌠 Hobbies:Fitness 🏋️, Reading 📖
+- 🌠 Hobbies:Lifting 🏋️,Reading 📖
 
 <br />
 
