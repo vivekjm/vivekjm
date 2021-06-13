@@ -24,7 +24,7 @@ Hi, I'm [Vivek JM](https://vivekjm.ml/), a passionate self-taught Javascript eng
 
 <br />
 
-This is the place where I opensource stuff and share my knowledge 👻
+This is the place where I opensource stuff and share my knowledge <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px" margin-top="5px">
 
 - 🔭 I’m currently working on crossplatform mobile app developemt 📱
 - 📚 Mentoring budding programmers
