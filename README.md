@@ -116,7 +116,6 @@ This is the place where I opensource stuff and share my knowledge  😄
   
   ![Viveks's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekjm&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekjm)](https://git.io/streak-stats)
   
 
 </p>
