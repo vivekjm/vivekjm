@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, I'm [Vivek JM](https://vivekjm.ml/), a passionate self-taught Javascript engineer from India. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Vivek JM](https://vivekjm.ml/) {[Coderghost](https://instagram.com/coderghost)}, a passionate self-taught Javascript engineer from India. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 <br />
