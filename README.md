@@ -13,19 +13,19 @@
 <a href="https://www.npmjs.com/~vivek.j.m">
   <img align="left" alt="Vivek's npm" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
 </a>
-
+<br />
 
 
 
 
 <br />
-<br />
+
 Hi, I'm [Vivek JM](https://vivekjm.ml/), a passionate self-taught Javascript engineer from India. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 <br />
 
-This is the place where I opensource stuff and share my knowledge <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px" margin-top="5px">
+This is the place where I opensource stuff and share my knowledge 😃
 
 - 🔭 I’m currently working on crossplatform mobile app developemt 📱
 - 📚 Mentoring budding programmers
