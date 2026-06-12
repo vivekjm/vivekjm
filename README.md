@@ -11,20 +11,11 @@ Full-stack software engineer building web apps, mobile tooling, AI-agent systems
 
 ## Recent contributions
 
-#### [Expo](https://github.com/expo/expo/pull/45896)
-Fixed Android video stabilization support in `expo-camera`.
-
-#### [Pyrefly](https://github.com/facebook/pyrefly/pull/3769)
-Added a focused `@dataclass` + `NamedTuple` type-checker fix.
-
-#### [VS Code](https://github.com/microsoft/vscode/pull/318042)
-Cleaned up breadcrumbs command behavior.
-
-#### [React Native Windows](https://github.com/microsoft/react-native-windows/pull/16126)
-Added `run-windows --port` support for Metro.
-
-#### [RNX Kit](https://github.com/microsoft/rnx-kit/pull/4155)
-Improved React Native tree-shaking docs.
+- Expo - [#45896](https://github.com/expo/expo/pull/45896) - fixed Android video stabilization support in `expo-camera`
+- Pyrefly - [#3769](https://github.com/facebook/pyrefly/pull/3769) - added a focused `@dataclass` + `NamedTuple` type-checker fix
+- VS Code - [#318042](https://github.com/microsoft/vscode/pull/318042) - cleaned up breadcrumbs command behavior
+- React Native Windows - [#16126](https://github.com/microsoft/react-native-windows/pull/16126) - added `run-windows --port` support for Metro
+- RNX Kit - [#4155](https://github.com/microsoft/rnx-kit/pull/4155) - improved React Native tree-shaking docs
 
 ## Current interests
 
