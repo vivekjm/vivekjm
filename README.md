@@ -17,6 +17,6 @@ Full-stack software engineer building web apps, mobile tooling, AI-agent systems
 - React Native Windows - [#16126](https://github.com/microsoft/react-native-windows/pull/16126) - added `run-windows --port` support for Metro
 - RNX Kit - [#4155](https://github.com/microsoft/rnx-kit/pull/4155) - improved React Native tree-shaking docs
 
-### interests
+### Interests
 
 Product engineering, React Native infra, Expo, AI agents, and developer experience.
