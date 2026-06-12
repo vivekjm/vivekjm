@@ -14,11 +14,12 @@ I work across React, React Native, Expo, Node.js, TypeScript, native/mobile tool
 - Debug with optimism, logs, and just enough suspicion
 - Treat TypeScript like a seatbelt, not a personality
 
-## Notable merged contributions
+## Notable open-source contributions
 
 | Project | Contribution | Impact |
 | --- | --- | --- |
 | [Expo](https://github.com/expo/expo/pull/45896) | Fixed Android video stabilization support in `expo-camera` | Prevents unsupported CameraX stabilization from freezing previews or breaking video recording on affected devices |
+| [Pyrefly](https://github.com/facebook/pyrefly/pull/3769) | Rejected `@dataclass` decorators on `NamedTuple` classes | Added a focused type-checker regression fix that was approved and imported by Meta maintainers |
 | [VS Code](https://github.com/microsoft/vscode/pull/318042) | Disabled "Copy Breadcrumbs Path" when no symbol breadcrumbs exist | Tightened command and menu behavior in one of the most-used developer tools |
 | [React Native Windows](https://github.com/microsoft/react-native-windows/pull/16126) | Added `run-windows --port` support for Metro | Makes React Native Windows CLI workflows smoother when the default Metro port is occupied |
 | [RNX Kit](https://github.com/microsoft/rnx-kit/pull/4155) | Improved tree-shaking documentation | Helps React Native developers configure bundling and analysis with less guesswork |
