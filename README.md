@@ -1,4 +1,4 @@
-# Hey, I'm Vivek
+## Hey, I'm Vivek
 
 Full-stack software engineer building web apps, mobile tooling, AI-agent systems, and small open-source fixes that make big repos behave.
 
